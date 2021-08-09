@@ -55,7 +55,7 @@ function Header() {
 				onClick={() => router.push("/")}
 			>
 				<Image
-					src="https://i.imgur.com/EuA0US5.jpg"
+					src="https://links.papareact.com/qd3"
 					layout="fill"
 					objectFit="contain"
 					objectPosition="left"
