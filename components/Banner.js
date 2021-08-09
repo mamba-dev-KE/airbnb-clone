@@ -9,7 +9,7 @@ function Banner() {
 				objectFit="cover"
 			/>
 			<div className="absolute top-1/2 w-full text-center">
-				<p className="text-sm sm:text-lg">Not sure where to go? Perfect.</p>
+				<p className="text-sm sm:text-lg text-white">Not sure where to go? Perfect.</p>
 				<button className="bg-white px-10 py-4 text-purple-500 shadow-md rounded-full font-bold my-4 hover:shadow-xl active:scale-90 transition duration-150">
 					I'm flexible
 				</button>
