@@ -34,7 +34,7 @@ function Search({ searchResults }) {
 						<p className="button">More Filters</p>
 					</div>
 
-					<div className="">
+					<div>
 						{searchResults.map(
 							({ img, location, title, description, star, price, total }) => (
 								<InfoCard
