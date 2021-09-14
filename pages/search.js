@@ -7,7 +7,6 @@ import Map from "../components/Map";
 
 function Search({ searchResults }) {
 	const router = useRouter();
-	console.log(searchResults);
 
 	const { location, startDate, endDate, noOfGuests } = router.query;
 
